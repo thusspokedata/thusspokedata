@@ -11,6 +11,19 @@
 <h3 align="left">About me:</h3>
 Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That keeps me motivated to get better everyday. Be an artist at whatever you do!
 
+ ---
+ 
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=antonio-datahack&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-datahack&langs_count=8&count_private=true&theme=dracula&line_height=10">
+
+</p>
+
+ ---
+
 <!-- to continue 
 
 <p align="left">
