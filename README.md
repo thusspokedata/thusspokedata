@@ -5,6 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-AntonioSaleme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
 [![Gmail](https://img.shields.io/badge/-AntonioSaleme-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antonio.datahack@gmail.com)
+[![Tableau](https://img.shields.io/badge/-Tableau-2d4b65?style=flat&logo=tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
 
 
 <!--Introduction -->
@@ -14,6 +15,9 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
  ---
  
 **Github Stats:**
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=antonio-datahack.antonio-datahack)
+![](https://img.shields.io/github/followers/antonio-datahack?style=social)
 
 <p align="center">
   
