@@ -29,8 +29,8 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 
 
 
- ---
- 
+
+
  <!--
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonio-datahack&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
@@ -43,4 +43,10 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 [![Linkedin](https://img.shields.io/badge/-AntonioSaleme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
 [![Gmail](https://img.shields.io/badge/-AntonioSaleme-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antonio.datahack@gmail.com)
 [![Tableau](https://img.shields.io/badge/-Tableau-2d4b65?style=flat&logo=tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
+
+ <p align="center">
+  <a href="https://github.com/antonio-datahack"><span>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonio-datahack&theme=dracula" />
+    </span></a>
+</p>
 
