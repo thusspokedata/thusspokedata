@@ -3,9 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/-AntonioSaleme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
-[![Gmail](https://img.shields.io/badge/-AntonioSaleme-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antonio.datahack@gmail.com)
-[![Tableau](https://img.shields.io/badge/-Tableau-2d4b65?style=flat&logo=tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
+[![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:antoniosastre@tutanota.com)
+[![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
 
 
 <!--Introduction -->
@@ -26,6 +27,8 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 
 </p>
 
+
+
  ---
  
  <!--
@@ -35,3 +38,9 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonio-datahack&bg_color=282a36&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=antonio-datahack&hide_border=true&theme=redical)
+
+--- 
+[![Linkedin](https://img.shields.io/badge/-AntonioSaleme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
+[![Gmail](https://img.shields.io/badge/-AntonioSaleme-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antonio.datahack@gmail.com)
+[![Tableau](https://img.shields.io/badge/-Tableau-2d4b65?style=flat&logo=tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
+
