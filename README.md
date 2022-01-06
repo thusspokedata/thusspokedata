@@ -20,6 +20,12 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-datahack.antonio-datahack)
 ![](https://img.shields.io/github/followers/antonio-datahack?style=social)
 
+ <p align="center">
+  <a href="https://github.com/antonio-datahack"><span>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonio-datahack&theme=dracula" />
+    </span></a>
+</p>
+
  <!--
 
 <p align="center">
