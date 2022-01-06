@@ -20,6 +20,8 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-datahack.antonio-datahack)
 ![](https://img.shields.io/github/followers/antonio-datahack?style=social)
 
+ <!--
+
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=antonio-datahack&count_private=true&show_icons=true&theme=dracula&line_height=33">
@@ -31,7 +33,7 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 
 
 
- <!--
+
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonio-datahack&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
