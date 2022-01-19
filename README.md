@@ -15,6 +15,26 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
 
  ---
  
+ <strong>Education:</strong> <br>
+  * [Data Analyst Ironhack](https://www.credential.net/1fe2745b-f984-472e-aafc-d5b0b4be7106#gs.ma5lw8)
+ 
+ <strong>Certifications:</strong><br>
++ SQL:
+  * [Advanced SQL Database Administration with MySQL Workbench](https://www.udemy.com/certificate/UC-9581b536-30ae-4e6b-b13c-371a9852c0a5/)
++ Tableau
+  * [Advanced Tableau for Business Intelligence & Data Analysis](https://www.udemy.com/certificate/UC-deb4a03d-4386-4d4c-ab2a-0e7f7c6b83e6/)
+  * [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-f221eb07-7c14-4f5d-b79e-d468133b4ab3/)
++ Excel 
+  * [Microsoft Excel - Data Analysis with Excel Pivot Tables](https://www.udemy.com/certificate/UC-cf1e3b75-d53c-4fdd-a5bd-f10d539ada46/)
+  * [Microsoft Excel - Data Visualization, Excel Charts & Graphs](https://www.udemy.com/certificate/UC-6aa52baa-e50a-4f0a-be48-dfe4cc517c35/)
++ Data Science
+  * [Data Science for Business | 6 Real-world Case Studies](https://www.udemy.com/certificate/UC-1a63ce59-76c9-42e2-961a-1bf0c3dc525a/)
++ Statistics
+  * [Learn Statistics with Python Course](https://www.codecademy.com/profiles/web7847578924/certificates/05226ac87e20192597adea00b851c15a)
+
+---
+
+ 
 **Github Stats:**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-datahack.antonio-datahack)
