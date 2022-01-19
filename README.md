@@ -16,7 +16,7 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
  ---
  
  <strong>Education:</strong> <br>
-  * [Data Analyst Ironhack](https://www.credential.net/1fe2745b-f984-472e-aafc-d5b0b4be7106#gs.ma5lw8)
+  * [Data Analyst, Ironhack Berlin](https://www.credential.net/1fe2745b-f984-472e-aafc-d5b0b4be7106#gs.ma5lw8)
  
  <strong>Certifications:</strong><br>
 + SQL:
