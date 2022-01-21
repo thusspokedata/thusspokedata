@@ -29,6 +29,8 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
   * [Microsoft Excel - Data Visualization, Excel Charts & Graphs](https://www.udemy.com/certificate/UC-6aa52baa-e50a-4f0a-be48-dfe4cc517c35/)
 + Data Science
   * [Data Science for Business | 6 Real-world Case Studies](https://www.udemy.com/certificate/UC-1a63ce59-76c9-42e2-961a-1bf0c3dc525a/)
++ Machine Learning
+  * [Machine Learning with Imbalanced Data](https://www.udemy.com/certificate/UC-c71dbe54-a37d-4d45-9e7d-315370afe242/)
 + Statistics
   * [Learn Statistics with Python Course](https://www.codecademy.com/profiles/web7847578924/certificates/05226ac87e20192597adea00b851c15a)
 
