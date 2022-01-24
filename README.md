@@ -17,6 +17,11 @@ Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That
  
  <strong>Education:</strong> <br>
   * [Data Analyst, Ironhack Berlin](https://www.credential.net/1fe2745b-f984-472e-aafc-d5b0b4be7106#gs.ma5lw8)
+    - Data Analysis using Python (Pandas, NumPy) & MySQL
+    - Data Visualization (Tableau, Plotly, & Seaborn)
+    - Build, Evaluate & Deploy Machine Learning Models and Pipelines (Scikit-Learn)
+    - Inferential Statistics in Python & Business Intelligence
+    - Data Wrangling, Data Cleaning, API & Web Scraping
  
  <strong>Certifications:</strong><br>
 + SQL:
