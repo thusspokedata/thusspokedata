@@ -11,7 +11,16 @@
 
 <!--Introduction -->
 <h3 align="left">About me:</h3>
-Data Analyst, Opera Singer, Martial Artist. I have always done what I love. That keeps me motivated to get better everyday. Be an artist at whatever you do!
+I'm an ex opera singer who decided to change career for a passion of mine that is even greater than singing. 
+<br>
+<br>
+I'm a <strong>Data Analyst</strong> with strong knowledge of <strong>SQL</strong> queries for exploring and analyzing databases with MySQL Workbench, while also using subqueries and temporary tables to handle complex multi-step data problems.<br><br>
+I'm improving my knowledge of <strong>Machine Learning</strong> every day, paying special attention to the best Feature Engineering procedures, looking for the best hyperparameters, or dealing with imbalanced data. I use <strong>Python</strong> (including the libraries Numpy, Pandas, Scipy, Matplotlib, Scikit-learn) as a programming language.<br><br> 
+<strong>Tableau</strong> is my visualization tool of choice. I feel comfortable working with advanced tools like parameters actions, geospatial mapping, and predictive analysis. 
+<br><br>
+I like working in collaborative teams where I always share my knowledge, understanding that the best way to get better is by making your environment grow.
+<br><br>
+Currently I'm learning <strong>PySpark</strong> and also the framework <strong>Django.</strong>
 
  ---
  
