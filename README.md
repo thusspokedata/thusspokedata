@@ -23,6 +23,14 @@ I like working in collaborative teams where I always share my knowledge, underst
 Currently I'm learning <strong>PySpark</strong> and also the framework <strong>Django.</strong>
 
  ---
+ <strong>Projects:</strong> <br>
+ * [Predicting Selling Prices -Linear Regression-](https://github.com/marimor62/Midtermproject-Housing)
+ * [Fake News detector -NLP-](https://github.com/antonio-datahack/fake-news-project)
+ * [Credict Card Offer -Linear Classification- (still in progress)](https://github.com/antonio-datahack/classification-project)
+ * [Building a Website using Django](https://cinkriscautzky-fono.com)
+ 
+ ---
+ 
  
  <strong>Education:</strong> <br>
   * [Data Analyst, Ironhack Berlin](https://www.credential.net/1fe2745b-f984-472e-aafc-d5b0b4be7106#gs.ma5lw8)
