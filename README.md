@@ -43,6 +43,7 @@ Currently I'm learning <strong>PySpark</strong> and also the framework <strong>D
  <strong>Certifications:</strong><br>
 + SQL:
   * [Advanced SQL Database Administration with MySQL Workbench](https://www.udemy.com/certificate/UC-9581b536-30ae-4e6b-b13c-371a9852c0a5/)
+  * [Advanced SQL: MySQL Data Analysis & Business Intelligence](https://www.udemy.com/certificate/UC-30eb750b-7ac6-475e-8ae8-3d3415f64646/)
 + Tableau
   * [Advanced Tableau for Business Intelligence & Data Analysis](https://www.udemy.com/certificate/UC-deb4a03d-4386-4d4c-ab2a-0e7f7c6b83e6/)
   * [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-f221eb07-7c14-4f5d-b79e-d468133b4ab3/)
