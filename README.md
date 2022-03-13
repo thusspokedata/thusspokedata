@@ -56,6 +56,8 @@ Currently I'm learning <strong>PySpark</strong> and also the framework <strong>D
   * [Machine Learning with Imbalanced Data](https://www.udemy.com/certificate/UC-c71dbe54-a37d-4d45-9e7d-315370afe242/)
 + Statistics
   * [Learn Statistics with Python Course](https://www.codecademy.com/profiles/web7847578924/certificates/05226ac87e20192597adea00b851c15a)
++ Data Engineering
+  * [Your data in the cloud: ETL with Python in the cloud](https://www.udemy.com/certificate/UC-5d4c9d92-be31-44dc-bbc4-f73fcf6173d7/)
 
 ---
 
