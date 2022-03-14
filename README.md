@@ -73,7 +73,7 @@ Currently I'm learning <strong>PySpark</strong> and also the framework <strong>D
     </span></a>
 </p>
 
- <!--
+ 
 
 <p align="center">
   
@@ -86,7 +86,7 @@ Currently I'm learning <strong>PySpark</strong> and also the framework <strong>D
 
 
 
-
+<!--
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonio-datahack&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
