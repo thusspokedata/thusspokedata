@@ -20,7 +20,7 @@ I'm improving my knowledge of <strong>Machine Learning</strong> every day, payin
 <br><br>
 I like working in collaborative teams where I always share my knowledge, understanding that the best way to get better is by making your environment grow.
 <br><br>
-Currently  I'm learning <strong>Bayesian Machine Learning for A/B Testing</strong> and how to build data warehouses on demand with <strong>Snowflake</strong>.
+
 
  ---
  <strong>Projects:</strong> <br>
