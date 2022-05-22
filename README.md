@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/antonio-datahack/antonio-datahack/blob/main/images/Hi.gif" width="25px">, I'm Antonio Saleme</h1>
+<h1 align="center">Hi there <img src="https://github.com/thusspokedata/antonio-datahack/blob/main/images/Hi.gif" width="25px">, I'm Antonio Saleme</h1>
 <h3 align="center">I am Data Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:antoniosastre@tutanota.com)
 [![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
-<p align="right"><a href="https://github.com/antonio-datahack/index-readme">Private Index</a></p>
+<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
 
 <!--Introduction -->
 <h3 align="left">About me:</h3>
@@ -25,8 +25,8 @@ I like working in collaborative teams where I always share my knowledge, underst
  ---
  <strong>Projects:</strong> <br>
  * [Predicting Selling Prices -Linear Regression-](https://github.com/marimor62/Midtermproject-Housing)
- * [Fake News detector -NLP-](https://github.com/antonio-datahack/fake-news-project)
- * [Credict Card Offer -Linear Classification- (still in progress)](https://github.com/antonio-datahack/classification-project)
+ * [Fake News detector -NLP-](https://github.com/thusspokedata/fake-news-project)
+ * [Credict Card Offer -Linear Classification- (still in progress)](https://github.com/thusspokedata/classification-project)
  * [Building a Website using Django](https://cinkriscautzky-fono.com)
  * [I created my website using Bootstrap and Django](https://thusspokedata.com/)
  
@@ -65,12 +65,12 @@ I like working in collaborative teams where I always share my knowledge, underst
  
 **Github Stats:**
 
-![](https://visitor-badge.glitch.me/badge?page_id=antonio-datahack.antonio-datahack)
-![](https://img.shields.io/github/followers/antonio-datahack?style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=thusspokedata.thusspokedata)
+![](https://img.shields.io/github/followers/thusspokedata?style=social)
 
  <p align="center">
-  <a href="https://github.com/antonio-datahack"><span>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonio-datahack&theme=dracula" />
+  <a href="https://github.com/thusspokedata"><span>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thusspokedata&theme=dracula" />
     </span></a>
 </p>
 
@@ -78,8 +78,8 @@ I like working in collaborative teams where I always share my knowledge, underst
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=antonio-datahack&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-datahack&langs_count=8&count_private=true&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=thusspokedata&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=8&count_private=true&theme=dracula&line_height=10">
 
 </p>
 
