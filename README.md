@@ -9,7 +9,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
 <p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
 
-<!--Introduction -->
+<!--Introduction 
 <h3 align="left">About me:</h3>
 I'm an ex opera singer who decided to change career for a passion of mine that is even greater than singing. 
 <br>
@@ -20,7 +20,7 @@ I'm improving my knowledge of <strong>Machine Learning</strong> every day, payin
 <br><br>
 I like working in collaborative teams where I always share my knowledge, understanding that the best way to get better is by making your environment grow.
 <br><br>
-
+-->
 
  ---
  <strong>Projects:</strong> <br>
