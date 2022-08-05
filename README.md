@@ -36,6 +36,11 @@ I like working in collaborative teams where I always share my knowledge, underst
  
  
  <strong>Education:</strong> <br>
+ 
+  * [Full-stack Web Developer, Ironhack Berlin](https://www.credential.net/3b75062b-a433-45b6-abbe-0ddb4fad7e69)
+    - Front-end technologies learned: HTML | CSS | JavaScript (ES6) | React
+    - Back-end technologies learned: ExpressJs | NodeJs | MongoDb | Axios
+    - Version Control: Git | Github
   * [Data Analyst, Ironhack Berlin](https://www.credential.net/1fe2745b-f984-472e-aafc-d5b0b4be7106#gs.ma5lw8)
     - Data Analysis using Python (Pandas, NumPy) & MySQL
     - Data Visualization (Tableau, Plotly, & Seaborn)
