@@ -23,6 +23,7 @@
 
  ---
  <strong>Projects:</strong> <br>
+ * [Building an App using JavaScript, MongoDb, NodeJs and Express](https://github.com/Beachvolley-Project/Project-2)
  * [Predicting Selling Prices -Linear Regression-](https://github.com/marimor62/Midtermproject-Housing)
  * [Fake News detector -NLP-](https://github.com/thusspokedata/fake-news-project)
  * [Credict Card Offer -Linear Classification- (still in progress)](https://github.com/thusspokedata/classification-project)
