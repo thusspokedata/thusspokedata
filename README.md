@@ -15,7 +15,7 @@
 <br>
 <p>I'm an ex-opera singer who decided to change career for a passion of mine that is even greater than singing. </p>
 <p>I'm a web developer and data analyst. I enjoy working in collaborative teams, and truly believe that to improve you need to help your environment to improve as well. </p>
-<p>Recently I finished a full-stack web development boot camp at Ironhack where I learned MongoDB, NodeJs, ExpressJs and React among others. Learning a new programming language like JavaScript also made me a better python developer. </p>
+<p>Recently I finished a full-stack web development bootcamp at Ironhack where I learned MongoDB, NodeJs, ExpressJs and React among others. Learning a new programming language like JavaScript also made me a better python developer. </p>
 <p>Write me, let's talk about projects, and let's keep moving towards meeting our goals.</p>
 <br><br>
 
