@@ -14,12 +14,15 @@
 
 <br>
 <p>I'm an ex-opera singer who decided to change career for a passion of mine that is even greater than singing. </p>
-<p>I'm a web developer and data analyst. I enjoy working in collaborative teams, and truly believe that to improve you need to help your environment to improve as well. </p>
-<p>Recently I finished a full-stack web development bootcamp at Ironhack where I learned MongoDB, NodeJs, ExpressJs and React among others. Learning a new programming language like JavaScript also made me a better python developer. </p>
+<p>I'm a web developer and data analyst. Actually, I'm working at Ironhack as a teacher assistant.</p>
 <p>Write me, let's talk about projects, and let's keep moving towards meeting our goals.</p>
 <br><br>
 
-* ![Web Developer Bootcamp!!!](https://github.com/thusspokedata/Ironhack-Web-Developer-Bootcamp)
+
+
+**Find me on Codewars:**
+
+![](https://www.codewars.com/users/Thusspokedata/badges/small)
 
  ---
  <strong>Projects:</strong> <br>
@@ -73,6 +76,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thusspokedata.thusspokedata)
 ![](https://img.shields.io/github/followers/thusspokedata?style=social)
 
+
  <p align="center">
   <a href="https://github.com/thusspokedata"><span>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thusspokedata&theme=dracula" />
@@ -87,6 +91,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=8&count_private=true&theme=dracula&line_height=10">
 
 </p>
+
+
 
 <!--
 
