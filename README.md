@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:antoniosastre@tutanota.com)
 [![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
-<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
+
 
 
 <h3 align="left">About me:</h3>
@@ -17,6 +17,21 @@
 <p>I'm a web developer and data analyst. Currently, I'm working at Ironhack as a teacher assistant.</p>
 <p>Write me, let's talk about projects, and let's keep moving towards meeting our goals.</p>
 <br><br>
+
+<hr />
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=8&count_private=true&theme=dracula&line_height=10">
+</p>
+
+<hr />
+<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
+ 
+
+
+  
+  
+
 
 
 <!--
