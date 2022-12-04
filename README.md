@@ -19,6 +19,7 @@
 <br><br>
 
 
+<!--
 
 **Find me on Codewars:**
 
@@ -94,7 +95,7 @@
 
 
 
-<!--
+
 
 </svg></a>Like my work? </h4>
 <a href="https://www.buymeacoffee.com/thusspokedata" rel="nofollow"><img src="https://camo.githubusercontent.com/50b72c0e1d8c6e5ca08b526bbc8946aef30c668031713ee7ebaf76f674c69e28/68747470733a2f2f696d672e6275796d6561636f666665652e636f6d2f627574746f6e2d6170692f3f746578743d427579206d65206120636f6666656526656d6f6a693d26736c75673d68616d7a61616c69383126627574746f6e5f636f6c6f75723d46464444303026666f6e745f636f6c6f75723d30303030303026666f6e745f66616d696c793d436f6f6b6965266f75746c696e655f636f6c6f75723d30303030303026636f666665655f636f6c6f75723d666666666666" data-canonical-src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=hamzaali81&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" style="max-width: 100%;"></a>
