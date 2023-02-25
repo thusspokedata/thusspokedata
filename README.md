@@ -15,7 +15,6 @@
 <br>
 <p>I'm an ex-opera singer who decided to change career for a passion of mine that is even greater than singing. </p>
 <p>I'm a web developer and data analyst. Currently, I'm working at Vehiculum.de as a Frontend Developer.</p>
-<p>Write me, let's talk about projects, and let's keep moving towards meeting our goals.</p>
 <br><br>
 
 <hr />
