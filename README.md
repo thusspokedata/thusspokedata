@@ -1,37 +1,31 @@
 <h1 align="center">Hi there <img src="https://github.com/thusspokedata/antonio-datahack/blob/main/images/Hi.gif" width="25px">, I'm Antonio Saleme</h1>
-<h3 align="center">I am Web Developer and Data Analyst</h3>
+<h3 align="center">Web Developer and Data Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:antoniosastre@tutanota.com)
 [![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
 
-
-
 <h3 align="left">About me:</h3>
 
-<br>
-<p>I'm an ex-opera singer who decided to change career for a passion of mine that is even greater than singing. </p>
-<p>I'm a web developer and data analyst. Currently, I'm working at Vehiculum.de as a Frontend Developer.</p>
-<br><br>
+<p>I'm an ex-opera singer who decided to change career for a passion of mine that is even greater than singing. I'm a web developer and data analyst. Currently, I'm working at Vehiculum.de as a Frontend Developer.</p>
 
 <hr />
 
- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=8&count_private=true&theme=dracula&line_height=10">
 </p>
 
 <hr />
+
 <p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
- 
 
-
-Certificates 2024
-
-  * [React Query](https://cursos.devtalles.com/certificates/fdvtoaz2oa)
-  * [NextJs](https://cursos.devtalles.com/certificates/sawtn3cqr1)
+<h3 align="left">Certifications 2024:</h3>
+<ul>
+  <li><a href="https://cursos.devtalles.com/certificates/fdvtoaz2oa">React Query</a></li>
+  <li><a href="https://cursos.devtalles.com/certificates/sawtn3cqr1">NextJs</a></li>
+</ul>
 
 
 
