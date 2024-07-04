@@ -28,8 +28,10 @@
  
 
 
-  
-  https://cursos.devtalles.com/certificates/fdvtoaz2oa
+Certificates 2024
+
+  * [React Query](https://cursos.devtalles.com/certificates/fdvtoaz2oa)
+  * [NextJs](https://cursos.devtalles.com/certificates/sawtn3cqr1)
 
 
 
