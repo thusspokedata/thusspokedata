@@ -25,6 +25,7 @@
 <ul>
   <li><a href="https://cursos.devtalles.com/certificates/fdvtoaz2oa">React Query</a></li>
   <li><a href="https://cursos.devtalles.com/certificates/sawtn3cqr1">NextJs</a></li>
+  <li><a href="https://cursos.devtalles.com/certificates/avxskvpiur">Docker</a></li>
 </ul>
 
 
