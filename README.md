@@ -14,7 +14,7 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=8&count_private=true&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=10&count_private=true&theme=dracula&line_height=10">
 </p>
 
 <hr />
