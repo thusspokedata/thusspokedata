@@ -23,10 +23,10 @@
 
 <h3 align="left">Certifications 2024:</h3>
 <ul>
-  <li><a href="https://cursos.devtalles.com/certificates/fdvtoaz2oa">React Query</a></li>
-  <li><a href="https://cursos.devtalles.com/certificates/sawtn3cqr1">NextJs</a></li>
-  <li><a href="https://cursos.devtalles.com/certificates/avxskvpiur">Docker</a></li>
-  <li><a href="https://www.udemy.com/certificate/UC-695b0067-f675-4053-8e56-40ec648c388c/">NestJs</a></li>
+  <li><a href="https://cursos.devtalles.com/certificates/fdvtoaz2oa">React Query - A powerful asynchronous state manager.</a></li>
+  <li><a href="https://cursos.devtalles.com/certificates/sawtn3cqr1">Next.js: The React Framework for Production</a></li>
+  <li><a href="https://cursos.devtalles.com/certificates/avxskvpiur">Docker - Practical Usage Guide for Developers</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-695b0067-f675-4053-8e56-40ec648c388c/">Nest: Scalable backend development with Node.</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-695b0067-f675-4053-8e56-40ec648c388c/">Node - REST Authentication with Clean Architecture</a></li>
 
 </ul>
