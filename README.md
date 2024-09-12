@@ -16,9 +16,15 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=10&count_private=true&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=7&count_private=true&theme=dracula&line_height=10">
 </p>
 
+
+ <p align="center">
+  <a href="https://github.com/thusspokedata"><span>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thusspokedata&theme=dracula" />
+    </span></a>
+</p>
 <hr />
 
 <p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
