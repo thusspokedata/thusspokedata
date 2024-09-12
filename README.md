@@ -9,7 +9,9 @@
 
 <h3 align="left">About me:</h3>
 
-<p>I'm an ex-opera singer who decided to change career for a passion of mine that is even greater than singing. I'm a web developer and data analyst. Currently, I'm working at Vehiculum.de as a Frontend Developer.</p>
+<p>I'm a web developer and data analyst with a background in opera singing. I have transitioned into tech and gained experience in frontend development, working with various modern technologies. Previously, I worked at Vehiculum.de as a Frontend Developer, and I am currently exploring new opportunities in web development.</p>
+
+
 
 <hr />
 
