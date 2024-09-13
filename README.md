@@ -15,14 +15,13 @@
 
 <hr />
 
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=7&count_private=true&theme=dracula&line_height=10" />
-    <a href="https://github.com/thusspokedata">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thusspokedata&theme=dracula" />
-    </a>
-  </div>
-</div>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thusspokedata&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&layout=compact&theme=dracula" />
+</p>
+
+
 <hr />
 
 <p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
@@ -45,6 +44,15 @@
 
 
 <!--
+
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=7&count_private=true&theme=dracula&line_height=10" />
+    <a href="https://github.com/thusspokedata">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thusspokedata&theme=dracula" />
+    </a>
+  </div>
+</div>
 
 **Find me on Codewars:**
 
