@@ -9,9 +9,7 @@
 
 <h3 align="left">About me:</h3>
 
-<p>I'm a web developer and data analyst with a background in opera singing. I have transitioned into tech and gained experience in frontend development, working with various modern technologies. Previously, I worked at Vehiculum.de as a Frontend Developer, and I am currently exploring new opportunities in web development.</p>
-
-
+<p>I'm a web developer and data analyst with a background in opera singing. I have transitioned into tech and gained experience in frontend development, working with various modern technologies. Previously, I worked at Vehiculum.de as a Frontend Developer, and I am currently dedicating myself to web development.</p>
 
 <hr />
 
@@ -21,11 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&layout=compact&theme=dracula" />
 </p>
 
-
 <hr />
-
-<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
-
 
 <h3 align="left">Certifications 2024:</h3>
 <ul>
@@ -40,9 +34,16 @@
   <li><a href="https://cursos.devtalles.com/certificates/fdvtoaz2oa">React Query - A powerful asynchronous state manager.</a></li>
 </ul>
 
+<hr />
 
+### 🛠️ Current Project:
+<p>I'm currently working on an e-commerce project for an Argentine furniture store called <strong>K'óoben</strong>. The frontend is built using <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Mantine</strong>, <strong>Axios</strong>, and <strong>Clerk</strong> for authentication. You can view the frontend <a href="https://github.com/thusspokedata/kooben-fe">here</a>.</p>
 
+<p>The backend is developed with <strong>NestJS</strong>. You can explore the backend <a href="https://github.com/thusspokedata/kooben-be">here</a>.</p>
 
+<hr />
+
+<p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
 <!--
 
 <div align="center">
