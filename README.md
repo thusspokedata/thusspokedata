@@ -21,6 +21,13 @@
 
 <hr />
 
+<h3 align="left">Certifications 2025:</h3>
+<ul>
+  <li><a href="https://www.udemy.com/certificate/UC-1747060d-cb70-4166-93fe-2b048fa1cd61">Terraform: From Beginner to Certified 2025</a></li>
+</ul>
+
+
+
 <h3 align="left">Certifications 2024:</h3>
 <ul>
   <li><a href="https://cursos.devtalles.com/certificates/sawtn3cqr1">Next.js: The React Framework for Production</a></li>
