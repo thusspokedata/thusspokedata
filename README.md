@@ -23,7 +23,7 @@
 
 <h3 align="left">Certifications 2025:</h3>
 <ul>
-  <li><a href="[https://www.udemy.com/certificate/UC-1747060d-cb70-4166-93fe-2b048fa1cd61](https://eu.api.accredible.com/v1/credential-net/user_referrals/47996fe15ebf3087cc9281e00a4d97ff/click)">AWS Cloud Engineer</a></li>
+  <li><a href="https://eu.api.accredible.com/v1/credential-net/user_referrals/47996fe15ebf3087cc9281e00a4d97ff/click">AWS Cloud Engineer 🎯</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-1747060d-cb70-4166-93fe-2b048fa1cd61">Terraform: From Beginner to Certified 2025</a></li>
 </ul>
 
