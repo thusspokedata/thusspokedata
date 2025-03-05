@@ -9,7 +9,7 @@
 
 <h3 align="left">About me:</h3>
 
-<p>I'm a web developer and data analyst with a background in opera singing. I have transitioned into tech and gained experience in frontend development, working with various modern technologies. Previously, I worked at Vehiculum.de as a Frontend Developer, and I am currently dedicating myself to web development.</p>
+<p>I’m a web developer and AWS Cloud Engineer with a background in opera singing. I have transitioned into tech and gained experience in frontend development, working with various modern technologies. Previously, I worked at Vehiculum.de as a Frontend Developer, and I am currently dedicating myself to web development and cloud engineering.</p>
 
 <hr />
 
