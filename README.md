@@ -56,6 +56,14 @@
 
 <hr />
 
+<h3 align="left">🏆 Badges:</h3>
+
+<p align="left">
+  <img src="images/aws-re-start-graduate(1).png" width="90" alt="AWS re/Start Graduate">
+</p>
+
+<hr />
+
 <p align="right"><a href="https://github.com/thusspokedata/index-readme">Private Index</a></p>
 <!--
 
