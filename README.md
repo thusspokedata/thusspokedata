@@ -23,12 +23,9 @@
 
 <h3 align="left">Certifications 2025:</h3>
 <ul>
-  <li>
-  <a href="https://www.credly.com/badges/abefd6e2-4849-46e1-9860-b310162fad04">
-    <img src="https://images.credly.com/size/340x340/images/abefd6e2-4849-46e1-9860-b310162fad04.png" width="150" alt="AWS re/Start Graduate">
-  </a>
-</li>
-  <li><a href="https://eu.api.accredible.com/v1/credential-net/user_referrals/47996fe15ebf3087cc9281e00a4d97ff/click">AWS Cloud Engineer 🎯</a></li>
+  <li><a href="https://www.credly.com/badges/abefd6e2-4849-46e1-9860-b310162fad04" target="_blank">AWS re/Start Graduate</a></li>
+  <li><a href="https://www.credly.com/badges/de23a960-092a-4387-9597-4816c7b116d9" target="_blank">AWS Certified Cloud Practitioner</a></li>
+  <li><a href="https://eu.images.credential.net/embed/qzvfsgel.png" target="_blank">AWS Cloud Engineer 🎯 (Neue Fische)</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-1747060d-cb70-4166-93fe-2b048fa1cd61">Terraform: From Beginner to Certified 2025</a></li>
 </ul>
 
@@ -60,6 +57,7 @@
 
 <p align="left">
   <img src="images/aws-re-start-graduate(1).png" width="90" alt="AWS re/Start Graduate">
+  <img src="images/aws-certified-cloud-practitioner.png" width="90" alt="AWS Certified Cloud Practitioner">
 </p>
 
 <hr />
