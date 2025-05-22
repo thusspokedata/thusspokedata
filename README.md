@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/thusspokedata/antonio-datahack/blob/main/images/Hi.gif" width="25px">, I'm Antonio Saleme</h1>
-<h3 align="center">Web Developer and Data Analyst</h3>
+<h3 align="center">Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 
