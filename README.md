@@ -1,11 +1,6 @@
 <h1 align="center">Hi there <img src="https://github.com/thusspokedata/antonio-datahack/blob/main/images/Hi.gif" width="25px">, I'm Antonio Saleme</h1>
 <h3 align="center">Web Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
-[![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/antonio.saleme#!/)
-
 <h3 align="left">About me:</h3>
 
 <p>I’m a web developer and AWS Cloud Engineer with a background in opera singing. I have transitioned into tech and gained experience in frontend development, working with various modern technologies. Previously, I worked at Vehiculum.de as a Frontend Developer, and I am currently dedicating myself to web development and cloud engineering.</p>
