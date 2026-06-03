@@ -40,12 +40,6 @@
 
 <hr />
 
-### 🛠️ Current Project:
-<p>I'm currently working on an e-commerce project for an Argentine furniture store called <strong>K'óoben</strong>. The frontend is built using <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Mantine</strong>, <strong>Axios</strong>, and <strong>Clerk</strong> for authentication. You can view the frontend <a href="https://github.com/thusspokedata/kooben-fe">here</a>.</p>
-
-<p>The backend is developed with <strong>NestJS</strong>. You can explore the backend <a href="https://github.com/thusspokedata/kooben-be">here</a>.</p>
-
-<hr />
 
 <h3 align="left">🏆 Badges:</h3>
 
